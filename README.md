@@ -1,5 +1,7 @@
 # Data
 
+The data used for the Li et al paper "Distributional changes of NE Pacific groundfish driven more by ontogeny than temperature".
+
 The main data files are fish.csv and location.csv from bottom-trawl surveys in the Gulf of Alaska and west coast of Canada and U.S. from 1996 to 2015. The two datasets are quality controlled in Li et al. (2019) and the size classes of fish with fewer samples (e.g. the smallest and largest size classes) were further managed in the Get_Data function prior to analyses. 
 
 The LW_DFO.csv includes data from the bottom-trawl survey conducted by Fisheries and Oceans Canada (DFO) off the west coast of Canada and only used for length-weight relationships in this region. 
